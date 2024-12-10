@@ -1,0 +1,12 @@
+{
+    "id":"show_fleet_dp",
+    "name":"Show Fleet DP",
+    "author":"Albert Hiisky",
+    "version":"1.0.0",
+    "description":"Shows enemy's fleet combined deployment points/effective strength.",
+    "gameVersion":"0.97a-RC11",
+    "totalConversion":false,
+    "utility": "true",
+    "jars":["jars/ShowFleetDP.jar"],
+    "modPlugin":"ShowFleetDP.ShowFleetDPPlugin"
+}
